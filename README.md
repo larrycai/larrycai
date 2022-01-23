@@ -14,4 +14,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently thinking on ...
+
+README.md is copied from https://github.com/cedrickring/cedrickring/blob/master/README.md
+
 -->
